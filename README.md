@@ -44,6 +44,10 @@ The dashboard includes:
 - Revenue by Product
 - Sales Trends Over Time
 
+### Dashboard Preview
+
+![Power BI Dashboard](Screenshot%202026-11-15%20031602.png)
+
 ## Business Insights
 The analysis helps identify:
 - Best-performing product categories.
